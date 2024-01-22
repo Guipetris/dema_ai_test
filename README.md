@@ -16,7 +16,8 @@ Please in a new terminal type the command and make sure you are acessing the roo
 uvicorn sql_app.main:app --reload 
 ```
 The data of inventory should be already uploaded and a sql_app.db will be created in the root!
-4. Open your browser at: 
+
+ 4. Open your browser at: 
 ```
 http://127.0.0.1:8000/docs
 ```
