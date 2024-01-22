@@ -38,5 +38,6 @@ PS: The update method will require your input in the request_body in the UI for 
 - Solve the rest of the bonus exercises
 - Endpoint to sustain all the functions in just one: pagination,filtering,sorting
 - Endpoint to check orders X inventory and maybe build an expectation inventory count after count, maybe grabbbing average number of orders for some inference...
+- Test with moderm framework that can be dynamic and grow by the specifications of the request (GraphQL)
 - Containerized for testing
 
