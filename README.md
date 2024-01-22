@@ -3,12 +3,12 @@
 Hello and welcome to this repo - "clap, clap, clap"
 
 # What was done:
-List inventory endpoint, including pagination
-Update inventory endpoint  - update a product's name, quantity, category and/or subcategory
-List inventory endpoint for filtering by name, category and subcategory
+- List inventory endpoint, including pagination
+- Update inventory endpoint  - update a product's name, quantity, category and/or subcategory
+- List inventory endpoint for filtering by name, category and subcategory
 ## What's missing:
-Bulk update support for Update Inventory
-Sorting support for List Inventory
+- Bulk update support for Update Inventory
+- Sorting support for List Inventory
 
 ## Instructions & Steps
  1. The solutions was made using FASTAPI - please verify if you have the requirements in requirementx.txt,
